@@ -1,0 +1,52 @@
+@media screen and (max-width: 600px) {
+    .side-navbar {
+        display: none;
+    }
+
+    .warn {
+        width: 100px;
+        height: auto;
+    }
+
+    .mobile-icons {
+        margin: auto;
+        display: block;
+    }
+
+    .demo .fa-xmark {
+        display: none;
+    }
+
+    .topbar {
+        display: block;
+    }
+
+    .topbar h2 {
+        margin-left: 50PX;
+        margin-top: -50px;
+    }
+
+    .humburger .fa-bars {
+        display: block;
+        margin-left: 162px;
+        margin-top: -50px;
+    }
+
+    .notification {
+        margin-top: 10px;
+        margin-left: 105px;
+    }
+
+    .try-now {
+        margin-left: 65px;
+    }
+
+    .image {
+        margin-left: 70px;
+    }
+
+    .device {
+        margin-left: 70px;
+        margin-top: 110px;
+    }
+}
